@@ -20,6 +20,6 @@
   <img align="right" alt="Saulo-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/c0Ht0SF.jpg&width=676&height=676">
 </div>
   <div>
-    ![Snake animation](https://github.com/saulocatunda/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/saulocatunda/saulocatunda/blob/output/github-contribution-grid-snake.svg)
   </div>
   
