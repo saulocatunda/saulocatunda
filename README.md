@@ -1,8 +1,8 @@
 ### Olá, me chamo Saulo Catunda. 👋
 
 
-- 🔭 Atualmente estou apenas estudando
-- 🌱 Estou estudando HTML, JavaScript, CSS
+- 🔭 Atualmente estou apenas estudando para concursos, porém, na área da programação. (Por isso o portfólio está parado).
+- 🌱 Estou estudando HTML, JavaScript, CSS e assuntos gerais da tecnologia.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
