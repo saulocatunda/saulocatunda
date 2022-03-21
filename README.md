@@ -1,9 +1,12 @@
 ### Olá, me chamo Saulo Catunda. 👋
 
 
-- 🔭 Atualmente estou apenas estudando para concursos, porém, na área da programação. (Por isso o portfólio está parado).
+- 🔭 Atualmente me preparando para o mercado de trabalho. #Explorer Rocketseat.
+- ✨ Prestes a começar um projeto próprio que beneficia animais abandonados.
 - 🌱 Estou estudando HTML, JavaScript, CSS e assuntos gerais da tecnologia.
-- 😄 Pronouns: ele/dele
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Unifametro, atualmente fazendo cursos de desenvolvimento como Explorer da Rocketseat.
+- 👀 Tenho interesse em aprender qualquer coisa que envolva tecnologia, desenvolvimento e negócios. 
+- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/saulocatunda">
