@@ -6,6 +6,7 @@
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Unifametro, atualmente fazendo cursos de desenvolvimento como Explorer da Rocketseat.
 - 👀 Tenho interesse em aprender qualquer coisa que envolva tecnologia, desenvolvimento e negócios. 
 - 😄 Pronouns: ele/dele.
+- ⏲️ Tempo total programando: [![wakatime](https://wakatime.com/badge/user/cefc4441-8b7a-4a52-9961-1df8b0511a12.svg)](https://wakatime.com/@cefc4441-8b7a-4a52-9961-1df8b0511a12)
 
 <div align="center">
   <a href="https://github.com/saulocatunda">
