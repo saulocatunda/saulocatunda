@@ -1,9 +1,9 @@
 ### Olá, me chamo Saulo Catunda. 👋
 
 
-- 🔭 Atualmente me preparando para o mercado de trabalho. #Explorer Rocketseat.
+- 🔭 Em busca da minha primeira oportunidade. #Explorer Rocketseat.
 - 🌱 Estou estudando HTML, JavaScript, CSS e assuntos gerais da tecnologia.
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Unifametro, atualmente fazendo cursos de desenvolvimento como Explorer da Rocketseat.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Unifametro, atualmente fazendo o curso fullstack jr do <a href="https://www.rocketseat.com.br/explorer">Explorer</a>  da Rocketseat.
 - 👀 Tenho interesse em aprender qualquer coisa que envolva tecnologia, desenvolvimento e negócios. 
 - 😄 Pronouns: ele/dele.
 
