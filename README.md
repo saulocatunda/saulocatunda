@@ -24,14 +24,7 @@
   
   ##
 
-  [![saulocatunda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saulocatunda&layout=compact)](https://github.com/saulocatunda/github-readme-stats)
-
-<a href="https://github.com/saulocatunda/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=aura" />
-</a>
-<a href="https://github.com/saulocatunda/focus-timer2.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saulocatunda&repo=focus-timer2.0&theme=aura" />
-</a>
+  [![saulocatunda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saulocatunda&layout=compact&theme=aura)](https://github.com/saulocatunda/github-readme-stats)
 
   
   <div> 
