@@ -23,6 +23,16 @@
 </div>
   
   ##
+
+  [![saulocatunda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saulocatunda&layout=compact)](https://github.com/saulocatunda/github-readme-stats)
+
+<a href="https://github.com/saulocatunda/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=aura" />
+</a>
+<a href="https://github.com/saulocatunda/focus-timer2.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saulocatunda&repo=focus-timer2.0&theme=aura" />
+</a>
+
   
   <div> 
   <a href="https://www.youtube.com/channel/UC9JFHePnZXVTjePKgsx0tkg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
