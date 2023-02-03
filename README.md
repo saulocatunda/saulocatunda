@@ -24,7 +24,7 @@
   
   ##
 
-  [![saulocatunda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saulocatunda&layout=compact&theme=aura)](https://github.com/saulocatunda/github-readme-stats)
+  [![saulocatunda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saulocatunda&layout=compact&theme=aura)](https://wakatime.com/@saulocatunda)
 
   
   <div> 
