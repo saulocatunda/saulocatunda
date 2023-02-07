@@ -1,5 +1,5 @@
 ### Olá, me chamo Saulo Catunda. 👋
-
+![](https://komarev.com/ghpvc/?username=saulocatunda&color=blueviolet&style=flat)
 
 - 🔭 Em busca da minha primeira oportunidade. #Explorer Rocketseat.
 - 🌱 Estou estudando HTML, JavaScript, CSS e assuntos gerais da tecnologia.
@@ -19,14 +19,14 @@
   <img align="center" alt="Saulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Saulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Saulo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Saulo-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/c0Ht0SF.jpg&width=676&height=676">
 </div>
   
-  ##
 
-  [![saulocatunda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saulocatunda&layout=compact&theme=aura)](https://wakatime.com/@saulocatunda)
+<div align="center">
+  <a href="https://wakatime.com/@saulocatunda"> <img height="200em"  src="https://github-readme-stats.vercel.app/api/wakatime?  username=saulocatunda&layout=compact&theme=aura"/></a>
+</div>
 
-  
+
   <div> 
   <a href="https://www.youtube.com/channel/UC9JFHePnZXVTjePKgsx0tkg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/saulocatunda.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
