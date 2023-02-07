@@ -22,11 +22,12 @@
 </div>
   <br>
 <div align="center">
-  
-[![saulocatunda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saulocatunda&layout=compact&theme=aura)](https://wakatime.com/@saulocatunda)
+
+[![saulocatunda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saulocatunda&layout=compact&theme=aura&custom_title="Wakatime:Last-7-Days")](https://wakatime.com/@saulocatunda)
   
 </div>
 
+  
 
   <div align="center"> 
   <a href="https://www.youtube.com/channel/UC9JFHePnZXVTjePKgsx0tkg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
