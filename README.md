@@ -23,7 +23,7 @@
   <br>
 <div align="center">
 
-[![saulocatunda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saulocatunda&layout=compact&theme=aura&custom_title="Wakatime:Last-7-Days")](https://wakatime.com/@saulocatunda)
+[![saulocatunda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saulocatunda&layout=compact&theme=aura&custom_title=Wakatime:Last-7-Days)](https://wakatime.com/@saulocatunda)
   
 </div>
 
