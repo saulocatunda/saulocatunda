@@ -1,9 +1,9 @@
 ### Olá, me chamo Saulo Catunda. 👋
 ![](https://komarev.com/ghpvc/?username=saulocatunda&color=blueviolet&style=flat)
 
-- 🔭 Em busca da minha primeira oportunidade. #Explorer Rocketseat.
+- 🔭 Em construção.
 - 🌱 Estou estudando HTML, JavaScript, CSS e assuntos gerais da tecnologia.
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Unifametro, atualmente fazendo o curso fullstack jr do <a href="https://www.rocketseat.com.br/explorer">Explorer</a>  da Rocketseat.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Unifametro, me aperfeiçoando em desenvolvimento web e futuramente mobile.
 - 👀 Tenho interesse em aprender qualquer coisa que envolva tecnologia, desenvolvimento e negócios. 
 - 😄 Pronouns: ele/dele.
 
